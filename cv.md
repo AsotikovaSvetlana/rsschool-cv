@@ -8,6 +8,9 @@
 * **Telegram:** @asotikova
 * **LinkedIn:** [svetlana-asotikova](https://www.linkedin.com/in/svetlana-asotikova/)
 
+## About Me
+Hello everyone! I`m a Junior Frontend Developer. I am currently working with some projects at my work and develop pet-projects at free time. My goal is to get more knowledge in Frontend Development and improve my skills all the time.
+
 ## Skills
 * HTML, CSS (SASS/SCSS, Less)
 * JavaScript (ES6+, AJAX, DOM, JSON)
